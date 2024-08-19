@@ -1,0 +1,64 @@
+body{
+    
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+    color:white
+}
+
+button,input[type="submit"]{
+    background-color: grey;
+    color: white;
+    padding: 12px 20px ;
+    border-radius: 4px;
+    font-size: 20px;
+}
+    
+
+table{
+    width: 50%;
+    margin: 25px auto;
+    font-size: 18px;
+    text-align: left;
+    justify-content: center;
+    text-align: center;
+
+}
+th,td{
+    padding: 12px;
+    border: 1px solid #ddd;
+
+}
+
+th{
+    background-color: white;
+    color: #000;
+    font-weight: bold;
+    border-bottom: 2px solid #000;
+
+}
+
+ol{
+    text-align:justify;
+    font-size: x-large;
+}
+
+ul{
+    text-align: justify;
+    font-size: x-large;
+}
+
+h1{
+    text-align: center;
+    justify-content: center;
+}
+
+.video-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+  text-align: center;
+}
+
